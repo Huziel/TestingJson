@@ -255,7 +255,7 @@ class app
         </center>
         <br>
         <div class="table-responsive">
-            <table class="table table-sm table-striped">
+            <table class="table table-sm table-striped" id="myTable">
                 <thead class="table-dark">
                     <tr>
                         <th>Id User</th>
